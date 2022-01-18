@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: API-GATEWAY
+
 eureka:
   client:
     register-with-eureka: true
